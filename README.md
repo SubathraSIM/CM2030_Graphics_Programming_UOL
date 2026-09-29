@@ -4,8 +4,8 @@ Coursework for **CM2030 Graphics Programming** (BSc Computer Science, University
 
 | Assessment | Project | Key topics |
 |---|---|---|
-| [Midterm](./midterm) | Snooker game | Physics engine, collision detection, user interaction |
-| [Endterm](./endterm) | Webcam image processing app | Thresholding, colour space conversion, segmentation |
+| [Midterm](./GP_mid_term) | Snooker game | Physics engine, collision detection, user interaction |
+| [Endterm](./End_term) | Webcam image processing app | Thresholding, colour space conversion, segmentation |
 
 **Tech:** JavaScript · p5.js · Matter.js
 
